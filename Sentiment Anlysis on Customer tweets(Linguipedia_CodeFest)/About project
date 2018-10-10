@@ -1,0 +1,13 @@
+About the codefest:
+
+Working on twitter data set that contain tweets about customer review on different companies and products. 
+Job was to find the tweets which showed a negatives sentiment towards such companies or product.
+
+Analysis is done in different parts:
+Details given below:
+
+1) Data Preprocessing: Which include data cleaning, removal of noise tec. 
+2) Feature Extraction: TF-IDF method for sparse vector representation.
+3) Data modeling: machine learning algorithm are used to classify output. 
+
+Note: more updates are coming for this project ....
